@@ -1,0 +1,6 @@
+1 - esboço de uma metade do fundo
+2 - criação de dois planos paralelos ao plano frontal e ao plano direito
+3 - desenhos de curvas limites usando splines
+4 - uso do recurso superficie limite para construir bordas
+5 - uso do recurso espelhar corpos pra construir a outra borda
+6 - uso do recurso superficie preenchida pra construir fundo da peça
